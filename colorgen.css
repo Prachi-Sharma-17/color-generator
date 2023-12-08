@@ -1,0 +1,25 @@
+body{
+    margin-top: 50px;
+    text-align: center;
+    background-color: whitesmoke;
+}
+div{
+    height:100px;
+    width:500px;
+    border: 1px solid black;
+    margin:auto;
+    margin-top: 8px;
+    text-align:center;
+    border-radius: 10px;
+}
+.btn{
+    background-color:black;
+    color:white;
+    opacity:0.5;
+    width: 8rem;
+    height: 2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.btn:hover{
+    opacity:1;
+}
